@@ -175,7 +175,7 @@ body {
 
  /** Citas **/
  .citas {
-      background-image: url(../img/bg_citas.jpg);
+      background: #194F9B;
       background-repeat: no-repeat;
       background-position: center center;
       background-attachment: fixed;
